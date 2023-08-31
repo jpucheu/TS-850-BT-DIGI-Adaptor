@@ -1,6 +1,4 @@
-English | [简体中文](./README.zh-CN.md)
-
-# A PCB Design of Bluetooth DIGI Adaptor for Yaesu FT-817/818 Series Transceivers
+# A PCB Design of Bluetooth DIGI Adaptor for Kenwood TS-850 Series Transceivers
 
 
 
