@@ -1,3 +1,5 @@
+[Español](README-es.md) | [English](README.md)
+
 # A PCB Design of Bluetooth DIGI Adaptor for Kenwood TS-850 Series Transceivers
 
 
