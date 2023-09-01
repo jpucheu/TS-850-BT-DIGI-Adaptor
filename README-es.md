@@ -5,15 +5,15 @@
 
 ## Índice
 - [Actualizaciones](#Actualizaciones)
-- [Atención!](#important-es)
-- [Contexto](#background-es)
-- [Diseño](#design-es)
-- [Repositorios del código](#code-repositories)
-- [Configuración del JDY-67](#configuration-of-JDY-67)
-- [FT8 para Android](#related-efforts)
-- [Colaboradores](#contributing)
+- [Atención!](#Atención!)
+- [Contexto](#Contexto)
+- [Diseño](#Diseño)
+- [Repositorios del código](#Repositorios-del-código)
+- [Configuración del JDY-67](#Configuración-del-JDY-67)
+- [FT8 para Android](#FT8-para-Android)
+- [Colaboradores](#Colaboradores)
 - [Maintainers](#maintainers)
-- [Licencia](#license)
+- [Licencia](#licencia)
 
 ## Actualizaciones
 
