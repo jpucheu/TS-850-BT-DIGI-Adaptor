@@ -1,11 +1,11 @@
 [Español](README-es.md) | [English](README.md)
 
 # Interfaz de modos digitales inalámbrica para transceptores de la serie Kenwood TS-850
-**NOTE: Diseño en estado experimental!! Todo puede cambiar**
+**NOTA: Diseño en estado experimental!! Todo puede cambiar**
 
 ## Índice
 - [Actualizaciones](#Actualizaciones)
-- [Atención!](#Atención!)
+- [Atención](#Atención)
 - [Contexto](#Contexto)
 - [Diseño](#Diseño)
 - [Repositorios del código](#Repositorios-del-código)
@@ -20,11 +20,11 @@
 ### 01092023 - Diseño inicial
 1. Actualización de la documentación al idioma español y características del TS-850
 
-## Atención!
+## Atención
 1. Verificar que la versión del firmware en el módulo JDY-67 sea 1.3 o superior. 
 2. Este módulo NO posee control de flujo por hardware, lo cual complica el diseño para transceptores que no poseen PTT por CAT. 
 
-## Background
+## Contexto
 My friend BG6JJI designed a Bluetooth DIGI adaptor working for many old style TRXs with a Bluetooth, DIGI and CAT ability. He was using a Bluetooth module named JDY-67. I am not sure which manufacturer made the JDY-67. But it's really inexpensive and really works for Bluetooth Audio, and SPP in same time.
 
 So, I pick up an old PCB design for my FT-818. It was design for FT8 cable connecting at very beginning. However, with JDY-67, It should works for Bluetooh/DIGI/CAT. I'd measured the DATA and ACC jacks on FT-818's rear panel, And refering to the FT-817ND's Service Manual, I think the Yaesu's PCB maybe design in a 0.635mm/0.025inch grid. Under this assumption, I'd drawn a PCB that could cover most of the FT-817 rear panel, and perfectly matched all the screw holes, jacks....precisely!!! It looks like a underwear(under-bottom-hardware), right?
@@ -34,7 +34,7 @@ So, I pick up an old PCB design for my FT-818. It was design for FT8 cable conne
 Although FT-817/818 has been discontinued, I still love this twenty years selling product. Now, I would like to share this PCB desgin to all HAM communities, If you wanna make your design, you can make any modify from it.
 
 
-## Design
+## Diseño
 This PCB was design by KiCad 7.0
 In the Layer User.Drawings and User.Comments, there are some information of measurement.
 In the Layer User.1~4, there are approximate FT-817/818's panel sketch for comparison.
