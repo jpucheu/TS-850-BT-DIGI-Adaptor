@@ -4,7 +4,7 @@
 **NOTE: Diseño en estado experimental!! Todo puede cambiar**
 
 ## Índice
-- [Actualizaciones](# Actualizaciones)
+- [Actualizaciones](#Actualizaciones)
 - [Atención!](#important-es)
 - [Contexto](#background-es)
 - [Diseño](#design-es)
